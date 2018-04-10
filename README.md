@@ -10,3 +10,7 @@ The problem constraints follow, with each representing a constraint presented by
 
 The final section of test shows the status of the run (‘Optimal’ if a solution to the constraints was found) and the weight in pounds of each food which must be consumed every day to meet the dietary guidelines and minimize cost. For the foods listed in foods.csv, the cost per day is $2.93.
 
+Data for food prices was taken from the Bureau of Labor Statistics Average Retail Food prices data, from Feb. 2018: https://www.bls.gov/regions/mid-atlantic/data/AverageRetailFoodAndEnergyPrices_USandMidwest_Table.htm
+
+Nutritional information was found with WolframAlpha.
+
